@@ -1,2 +1,2 @@
-# three-phase-rectifier
-A project to help me understand AC motors and 3 phase generators. 
+# BLDC Motor controller
+Creates 3 phase AC current from a 5V battery and with a potentiometer to control the PWM to change the motor speed
