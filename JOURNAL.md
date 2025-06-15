@@ -22,3 +22,18 @@ Today I recadded the motor and worked on a basic schematic
 This is just the start of the schematic, right now the driver design is super basic. It's a discrete driver meaning its not using any IC's. Later, once school is over i'll add some more unique and practical features to it.
 
 Side note: My kiCAD wakatime kept on not working, and i don't think fusion 360 has wakatime 😔
+
+# June 14th: Planning and added small features
+
+**Total time spent: 20mins**
+
+
+![image](https://github.com/user-attachments/assets/724de8ed-ba91-471f-956a-3230b34abac0)
+
+
+I added a few buttons and LEDs which in the future will turn the board on/off, reverse direction and LEDs to display statuses. I think I am missing a few more small ones. 
+I really didn't have much time today but I did brainstorm some features I want this to have:
+- an case for the pcb
+- smooth start-up
+- more sockets for testing purposes
+- make it safe / protect it
