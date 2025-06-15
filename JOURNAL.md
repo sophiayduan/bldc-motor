@@ -37,3 +37,5 @@ I really didn't have much time today but I did brainstorm some features I want t
 - smooth start-up
 - more sockets for testing purposes
 - make it safe / protect it
+- have an alternate solution using back EMF for sensorless
+- make it compatible with most commercial bldcs 
