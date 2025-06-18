@@ -47,6 +47,6 @@ Most of the time spent this session was researching, which is where I learned ab
 I decided on using an OLED display and a esp32 to control it, this will show the user the RPM, V, current draw...
 I researched what MCU to use and settled on the STM32F405RGTx
 
-![image](https://github.com/user-attachments/assets/f5c5aeb2-181a-4e5f-a779-eb59bea0f64e)
+![image](https://github.com/user-attachments/assets/9dc22619-1810-46ed-aa8b-4189a6775cc2)
 
 First time using hierarchal sheets + labels and modified my V1 schematic for the new components and separated them
