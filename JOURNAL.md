@@ -44,7 +44,9 @@ I really didn't have much time today but I did brainstorm some features I want t
 
 **Total time spent: 3h**
 Most of the time spent this session was researching, which is where I learned about the VESC which will be super helpful for the firmware
+
 I decided on using an OLED display and a esp32 to control it, this will show the user the RPM, V, current draw...
+
 I researched what MCU to use and settled on the STM32F405RGTx
 
 ![image](https://github.com/user-attachments/assets/9dc22619-1810-46ed-aa8b-4189a6775cc2)
