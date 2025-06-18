@@ -37,5 +37,12 @@ I really didn't have much time today but I did brainstorm some features I want t
 - smooth start-up
 - more sockets for testing purposes
 - make it safe / protect it
-- have an alternate solution using back EMF for sensorless
 - make it compatible with most commercial bldcs 
+
+# June 16th: Oops
+
+**Total time spent: **
+A bunch of new stuff went down
+I decided on using an OLED display and a esp32 to control it, this will show the user the RPM, V, current draw...
+I researched what MCU to use and settled on the 
+I changed what features there would be and made a new schematic based off of that.
