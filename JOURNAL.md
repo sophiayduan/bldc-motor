@@ -18,6 +18,7 @@ Today I recadded the motor and worked on a basic schematic
 
 ![image](https://github.com/user-attachments/assets/cd8bc1e1-d3f9-4139-9f9d-40f303253915)
 ![image](https://github.com/user-attachments/assets/1df7d0f2-cb2c-4179-9653-132d3f8a3a28)
+
 ^ a section view because I just learned how to do that recently and its super epic
 This is just the start of the schematic, right now the driver design is super basic. It's a discrete driver meaning its not using any IC's. Later, once school is over i'll add some more unique and practical features to it.
 
@@ -39,10 +40,13 @@ I really didn't have much time today but I did brainstorm some features I want t
 - make it safe / protect it
 - make it compatible with most commercial bldcs 
 
-# June 16th: Oops
+# June 16th: New plan
 
-**Total time spent: **
-A bunch of new stuff went down
+**Total time spent: 3h**
+Most of the time spent this session was researching, which is where I learned about the VESC which will be super helpful for the firmware
 I decided on using an OLED display and a esp32 to control it, this will show the user the RPM, V, current draw...
-I researched what MCU to use and settled on the 
-I changed what features there would be and made a new schematic based off of that.
+I researched what MCU to use and settled on the STM32F405RGTx
+
+![image](https://github.com/user-attachments/assets/f5c5aeb2-181a-4e5f-a779-eb59bea0f64e)
+
+First time using hierarchal sheets + labels and modified my V1 schematic for the new components and separated them
