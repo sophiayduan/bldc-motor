@@ -1,5 +1,3 @@
-# BLDC Motor controller and motor
+# BLDC Motor 
 
-The motor will use 3 Phase power in a Y configuration and is an outrunner
-
-The driver will be a handheld device to easily work with various bldcs 
+Simple brushless DC motor featuring TK config. and being mostly 3D printed
