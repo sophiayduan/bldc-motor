@@ -4,7 +4,7 @@ author: "Sophia"
 description: "A brushless dc motor"
 created: "2025-06-13"
 ---
-# July 30th: Quick project
+# July 29th: Quick project
 
 **Total time spent: 5h**
 
