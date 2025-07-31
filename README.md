@@ -1,6 +1,6 @@
 # BLDC Motor 
 
-A mostly 3D printed brushless DC motor with 9 slots and 12 poles
+A mostly 3D printed outrunner brushless DC motor with 9 slots and 12 poles
 
 If I wanted the most RPM or torque I would've bought a bldc, this is mostly just a model. In the future i'll use it to test a driver I hope to make.
 
