@@ -1,6 +1,6 @@
 # BLDC Motor 
 
-A mostly 3D printed outrunner brushless DC motor with 9 slots and 12 poles
+A mostly 3D printed outrunner brushless DC motor with 9 slots and 12 poles, wound in a Y configuration.
 
 If I wanted the most RPM or torque I would've bought a bldc, this is mostly just a model. In the future i'll use it to test a driver I hope to make.
 
@@ -10,6 +10,9 @@ Features:
 - Press fit 3d printed parts
 - Slot for wires
 - Removeable base
+
+
+(Copper wire not in images)
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/7451a826-a50e-4e20-a148-fe7bab81cc32" />
 
