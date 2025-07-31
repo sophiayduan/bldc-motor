@@ -26,7 +26,10 @@ I also referenced my first 3d printed bldc, it had many many flaws I hope to fix
 
 # July 31st: Finished
 **Total time spent: 6h**
+I ended up switching to 9 slots/ 12 poles for a more convential ratio.
+
 Today I finished CADing the entire project, using M2 threaded insert (same as my other project) and some small ball bearings. 
+
 The hardest part was getting the correct dimensions for my stator teeth and rotor, I need to optimize the gap between the magnets, the rotor/stator air gap, keeping the stator teeth reasonable for me to wind by hand and that parts I could find on aliexpress. 
 
 I think I managed to fix all the issues I wanted to tackle with this design.
