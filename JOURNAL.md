@@ -36,3 +36,23 @@ I think I managed to fix all the issues I wanted to tackle with this design.
 <img width="577" height="565" alt="image" src="https://github.com/user-attachments/assets/721fc1ea-6a31-4cff-b9fc-cf09fae441e9" />
 <img width="441" height="551" alt="image" src="https://github.com/user-attachments/assets/61d95a72-4fa4-443d-bd83-5a041104fdab" />
 
+# Feb 4th: V2.1 Finished
+**Total time spent: TOO much**
+
+(Writing this in retrospect) My Aliexpress parts arrived in Sept/Oct, but I didn't have the time to assemble the motor. Or so I thought, I ended up picking this project back up for a school project, and a lot more iterating was done. 
+
+Key changes:
+- No more set screw & threaded insert & d-shaft combo, as friction turned out to be more that strong enough
+- Used enameled copper wire, originally I had planned (and bought) just regular copper wire
+- Powered by a DIY power supply borrowed from my neighbour (had to do some more soldering for this, as originally I was just planning to use a 2-3S LiPo)
+- Using a Delta winding configuration (bad idea)
+- Simplified parts for 3D printing (less supports needed)
+- Added openings on the base, so the wires can actually go through!!
+
+This motor did end up spinning, but due to the heat produced by the coils (which was augmented by the delta config), the PLA printed stator started to warp (and melt a bit). This was a huge thing that I missed earlier on, PLA can only go up to 60C approx.
+
+For the next (and likely final) version, i'll swap to Nylon or another high temp filament for the stator, wind it in a Wye (Star) config, and hopefully drive it using a driver board that I design.
+
+
+Got my hands on a ESC (though I'm designing my own rn)
+
