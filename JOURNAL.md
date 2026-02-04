@@ -41,13 +41,15 @@ I think I managed to fix all the issues I wanted to tackle with this design.
 
 (Writing this in retrospect) My Aliexpress parts arrived in Sept/Oct, but I didn't have the time to assemble the motor. Or so I thought, I ended up picking this project back up for a school project, and a lot more iterating was done. 
 
-Key changes:
+Key changes/additions:
 - No more set screw & threaded insert & d-shaft combo, as friction turned out to be more that strong enough
 - Used enameled copper wire, originally I had planned (and bought) just regular copper wire
 - Powered by a DIY power supply borrowed from my neighbour (had to do some more soldering for this, as originally I was just planning to use a 2-3S LiPo)
 - Using a Delta winding configuration (bad idea)
 - Simplified parts for 3D printing (less supports needed)
 - Added openings on the base, so the wires can actually go through!!
+- Used an ESP32 + pot for a servo tester
+
 
 This motor did end up spinning, but due to the heat produced by the coils (which was augmented by the delta config), the PLA printed stator started to warp (and melt a bit). This was a huge thing that I missed earlier on, PLA can only go up to 60C approx.
 
