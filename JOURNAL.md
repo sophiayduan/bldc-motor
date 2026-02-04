@@ -49,6 +49,8 @@ Key changes/additions:
 - Simplified parts for 3D printing (less supports needed)
 - Added openings on the base, so the wires can actually go through!!
 - Used an ESP32 + pot for a servo tester
+- Screw holes for mounting
+- 3.5mm male banana plugs
 
 
 This motor did end up spinning, but due to the heat produced by the coils (which was augmented by the delta config), the PLA printed stator started to warp (and melt a bit). This was a huge thing that I missed earlier on, PLA can only go up to 60C approx.
