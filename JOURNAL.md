@@ -57,6 +57,18 @@ This motor did end up spinning, but due to the heat produced by the coils (which
 
 For the next (and likely final) version, i'll swap to Nylon or another high temp filament for the stator, wind it in a Wye (Star) config, and hopefully drive it using a driver board that I design.
 
+# Feb 21st: V2.2 Finished
+**Total time spent: too much time.**
+
+- Reprinted the stator with HT-PLA, and then rewound it in a Wye configuration
+- Had so many issues with the ESC, espicially the calibration. Looking back, I recongnize that my PSU wasn't providing enough current (along with a multitude of other issues that I fixed)
+- Got the motor running consistently! (video in the readme) --Somewhat, the highest current PSU I have access to is _barely_ enough. Otherwise, it works great.
+
+I ended up creating a [tachometer](https://github.com/sophiayduan/tachometer) to measure the RPM of this motor. (I want to determine its kV and efficiency)
+
+It has a nice dashboard, but I'm still working on making the calculated RPM more accurate. 
+
 
 Got my hands on a ESC (though I'm designing my own rn)
+
 
