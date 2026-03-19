@@ -3,6 +3,9 @@
 A mostly 3D printed outrunner brushless DC motor with 9 slots and 12 poles, wound in a ~~delta~~ star configuration.
 
 <img width="400" src="https://cdn.hackclub.com/019d063a-dbf4-7591-81bc-981f478068b9/20260129_020134.jpg" />
+
+> better photos coming soon
+
 If I wanted the most RPM or torque I would've bought a bldc, this is just a model for fun and to learn from. I'll be using it to test a driver board that I'm currently designing.
 
 Features:
@@ -11,6 +14,7 @@ Features:
 - Removeable base
 - Screw holes for mounting
 - 3.5mm male banana plugs
+- HT-PLA stator
 
 
 
